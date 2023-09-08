@@ -21,7 +21,7 @@ Voici quelques-unes des technologies que j'explore actuellement :
 
 ## Projets en cours
 
-- MoodSync - C'est un projet d'application / site qui te permet de trouver des playlist sur spotify par genre.
+- MoodSync - C'est un projet d'application / site qui te permet de trouver des playlist sur spotify par genre. Il contiendras également un gestionnaire playlist likée. 
 
 N'hésitez pas à explorer mes projets pour voir ce que j'ai réalisé jusqu'à présent !
 
